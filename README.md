@@ -1,5 +1,5 @@
 # HR_Attrition_People_analytics
-This project uses an Employee Attrition dataset to simulate a real-world **People Analytics** workflow:
+This project uses an Employee Attrition dataset from Kaggle to simulate a real-world **People Analytics** workflow:
 cleaning HR data, exploring drivers of attrition, training a predictive model, and generating actionable
 insights for HR and leadership.
 
@@ -13,6 +13,7 @@ The main goal is to:
 ## 🧩 Dataset
 
 - Source: Kaggle – *Employee Attrition Classification Dataset*
+- https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset
 - Target variable: `Attrition` (`Stayed` / `Left`)
 - Files:
   - `data/raw/train.csv` – training data with labels
