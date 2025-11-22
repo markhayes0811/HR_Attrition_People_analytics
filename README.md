@@ -6,7 +6,7 @@ insights for HR and leadership.
 The main goal is to:
 - Predict whether an employee is likely to **stay** or **leave**
 - Identify key factors driving attrition
-- Provide risk scores (`submission.csv`) that HR could use to prioritize retention efforts
+- Provide risk scores that HR could use to prioritize retention efforts
 
 ---
 
